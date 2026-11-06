@@ -1,5 +1,6 @@
 # 촘촘 작업 타이머 v1
 
+이 프로그램은 Codex의 도움을 받아 제작했습니다. 고마워~!
 Windows용 포터블 작업 타이머입니다. 설치 없이 실행하며 카운트다운·스톱워치와 실제 프로그램 활동 시간을 기록합니다.
 
 [최신 v1 다운로드](https://github.com/efloydp/cchom-work-timer/raw/refs/heads/main/CChomWorkTimer-v1.zip)
