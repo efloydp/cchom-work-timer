@@ -2,7 +2,7 @@
 
 Windows용 포터블 작업 타이머입니다. 설치 없이 실행하며 카운트다운·스톱워치와 실제 프로그램 활동 시간을 기록합니다.
 
-[최신 v1 다운로드](https://github.com/efloydp/efloydp.github.io/raw/refs/heads/main/downloads/CChomWorkTimer/v1/CChomWorkTimer-v1.zip)
+[최신 v1 다운로드](https://github.com/efloydp/cchom-work-timer/blob/main/CChomWorkTimer-v1.zip)
 
 ## 주요 기능
 
